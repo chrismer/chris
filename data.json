@@ -1,0 +1,240 @@
+[{
+        "abbr": "ACD",
+        "name": "Alta Cordoba",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "BEV",
+        "name": "Belville",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "CDN",
+        "name": "Cordoba Norte",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "CEN",
+        "name": "Cordoba Centro",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "CRM",
+        "name": "Catamarca",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "LAF",
+        "name": "Villa C Paz",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "LAY",
+        "name": "Laboulaye",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "LRI",
+        "name": "La Rioja",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "RCU",
+        "name": "Rio Cuarto",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "SDE",
+        "name": "S del Estero",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "SFS",
+        "name": "San Francisco",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "SLT",
+        "name": "Salta",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "SSJ",
+        "name": "Jujuy",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "TMN",
+        "name": "Tucuman",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "VMI",
+        "name": "Villa Maria",
+        "capital": "Girafe01"
+    },
+    {
+        "abbr": "CDG",
+        "name": "Cañada de Gomez",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "CSL",
+        "name": "Casilda",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "CTE",
+        "name": "Corrientes",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "CTR",
+        "name": "Rosario Centro",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "ELD",
+        "name": "El Dorado",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "FOR",
+        "name": "Formosa",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "GOY",
+        "name": "Goya",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "MON",
+        "name": "P de los Libres",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "OBE",
+        "name": "Obera",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "PAR",
+        "name": "Parana",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "POS",
+        "name": "Posada",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "PRS",
+        "name": "Roque S Peña",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "RCQ",
+        "name": "Reconquista",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "RES",
+        "name": "Resistencia"
+    },
+    {
+        "abbr": "RFL",
+        "name": "Rafaela",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "RSN",
+        "name": "Rosario Norte",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "SFE",
+        "name": "Santa Fe",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "SNC",
+        "name": "San Nicolas",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "STO",
+        "name": "Santo Tome",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "SUR",
+        "name": "Rosario Sur",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "VTO",
+        "name": "Venado Tuerto",
+        "capital": "Girafe02"
+    },
+    {
+        "abbr": "ALV",
+        "name": "Alvarez Thomas",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "BAL",
+        "name": "Villa Ballester",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "BEL",
+        "name": "Belgrano",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "CLI",
+        "name": "Clinicas",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "COS",
+        "name": "Costanera",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "LOP",
+        "name": "Vicente Lopez",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "PLR",
+        "name": "Palermo",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "PRE",
+        "name": "Sur",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "PUE",
+        "name": "V Pueyrredon",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "SAM",
+        "name": "San Martin",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "SIS",
+        "name": "San Isidro",
+        "capital": "Girafe03"
+    },
+    {
+        "abbr": "ZAR",
+        "name": "Zarate",
+        "capital": "Girafe03"
+    }
+]
